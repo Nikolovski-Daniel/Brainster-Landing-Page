@@ -1,0 +1,18 @@
+[
+  {
+    "id": "programming",
+    "name": "Програмер"
+  },
+  {
+    "id": "marketing",
+    "name": "Маркетер"
+  },
+  {
+    "id": "design",
+    "name": "Дизајнер"
+  },
+  {
+    "id": "data-science",
+    "name": "Дата Инженер"
+  }
+]
